@@ -40,3 +40,8 @@ form{
    text-align: center;
    padding: 100px; 
 }
+
+#cards #projects{
+   border-color: blue;
+   border-width: 50px;
+}
